@@ -1,2 +1,3 @@
-# Damir
-Here is nothing intersting for you bu right now i am making a new world of github for myself
+# Damir ALiyev 
+Hi guys i am data engineer, it is a repository that will store my projects
+
